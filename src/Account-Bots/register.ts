@@ -2,8 +2,8 @@
 /*
 This project is open source under MIT license.
 Developer: mgv
-X: @mgv15 ID: 1379675201616347259
 GitHub: https://github.com/hub-mgv
+discord Username: mgv150
 Recommended hosting: wispbyte.com for free 24/7 Minecraft bot hosting.
 Warning: This bot is for educational purposes only. Do not use for malicious activities. You are responsible for any bans or violations. The developer is not liable.
 */
