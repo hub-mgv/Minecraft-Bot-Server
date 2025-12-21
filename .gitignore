@@ -2,3 +2,4 @@ node_modules
 authcache
 config/Settings.json passwords (if sensitive)
 *.log
+* dist/
