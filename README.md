@@ -6,9 +6,9 @@ This is an open-source project for creating and managing Minecraft bots using Mi
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Developer Information
-- **Developer**: mgv
-- **X (Twitter)**: @mgv15 (User ID: 1379675201616347259)
-- **GitHub**: https://github.com/hub-mgv
+- Developer: mgv
+- discord Username: mgv150
+- GitHub: https://github.com/hub-mgv
 
 ## Features
 - **Auto Authentication**: Automatically registers or logs in bots on servers that require it.
@@ -24,10 +24,10 @@ We recommend using [wispbyte.com](https://wispbyte.com) for hosting your bots. I
 This bot is intended for **educational purposes only**. Do not use it for any malicious activities, such as griefing, spamming, or violating server rules. You are solely responsible for how you use this code and any consequences that arise from it, including but not limited to bans from servers or hosting providers. The developer (mgv) is not liable for any misuse or damages. Using bots on servers without permission may result in bans, and this is a clear warning.
 
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/hub-mgv/minecraft-bot-project.git`
-2. Install dependencies: `npm install mineflayer @rhld16/mineflayer-antiafk prismarine-auth`
-3. Configure your settings in `config/Settings.json` (example provided in the code).
-4. Run the project: `ts-node index.ts` (assuming you have TypeScript set up).
+1. Clone the repository: `git clone https://github.com/hub-mgv/Minecraft-Bot-Server.git`
+2. Install dependencies: `npm install`
+3. Configure your settings in `config/Settings.json` example provided in the code
+4. Run the project: `npm start`
 
 ## Configuration
 Edit `config/Settings.json` to set your server details, bot names, and other options.
@@ -36,4 +36,4 @@ Edit `config/Settings.json` to set your server details, bot names, and other opt
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## Contact
-For questions or issues, reach out via GitHub or X.
+For questions or issues, reach out via GitHub or discord mgv150
