@@ -1,0 +1,35 @@
+{
+  "servers": [
+    {
+      "Server": "On",
+      "host": "almzary6h.mcsh.io",
+      "version": "1.20.1",
+      "bots": [
+        "gogo",
+        "jeje"
+      ],
+      "autoAuth": {
+        "enabled": true,
+        "passwords": {
+          "gogo": "H8QqCWOZIS5c",
+          "jeje": "BprtcrMQgmsS"
+        }
+      },
+      "randomChat": {
+        "enabled": false,
+        "interval": 120000,
+        "messages": [
+          "Hello everyone",
+          "How's it going",
+          "Nice day in Minecraft",
+          "Anyone up for adventure"
+        ]
+      },
+      "auth": {
+        "enabled": false,
+        "type": "offline",
+        "cacheBaseDir": "./authcache"
+      }
+    }
+  ]
+}
