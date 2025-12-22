@@ -2,18 +2,15 @@
   "servers": [
     {
       "Server": "On",
-      "host": "almzary6h.mcsh.io",
+      "host": "ip",
       "version": "1.20.1",
       "bots": [
-        "gogo",
-        "jeje"
+        "bot1",
+        "bot2"
       ],
       "autoAuth": {
         "enabled": true,
-        "passwords": {
-          "gogo": "H8QqCWOZIS5c",
-          "jeje": "BprtcrMQgmsS"
-        }
+        "passwords": {}
       },
       "randomChat": {
         "enabled": false,
